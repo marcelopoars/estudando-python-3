@@ -7,3 +7,11 @@ print ("Imprimindo na tela.")
 nome_usuario = "marcelopoars"
 # Mostra na tela o conteudo da variavel
 print (nome_usuario)
+
+# Imprimindo VARIAVEL + STRING
+print ("Seja bem-vindo", nome_usuario,"!")
+
+# Imprimindo utilizando o FORMAT
+nome_usuario = "Marcelo Pereira"
+senha = 21212121
+print("Olá {}! Sua senha é: {}" .format(nome_usuario, senha))
