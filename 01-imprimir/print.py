@@ -14,6 +14,7 @@ print ("Seja bem-vindo", nome_usuario,"!")
 # Imprimindo utilizando o FORMAT
 nome_usuario = "Marcelo Pereira"
 senha = 21212121
+# Forma mais recomendada para IMPRIMIR NA TELA
 print("Olá {}! Sua senha é: {}" .format(nome_usuario, senha))
 
 # Imprimir utilizando um DICIONARIO
