@@ -1,12 +1,27 @@
-Testar:
-dir(print)
-dir(range)
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+""" Neste arquivo descrevo algumas
+- dicas
+- boas praticas
+- regras / sintaxe da linguagem Python 3 """
+
+# importando biblioteca
+import math
+
+# mostr a lista de funcoes contidas na biblioteca
+# dir(print)
+# dir(range)
+print(dir(math))
+
+
 
 # Como saber o tipo da variavel?
-print(type(nome da variavel))
+# minha_variavel = 10
+# print(type(minha_variavel))
 
 
-
+"""
 =======
 ATENÇÃO
 =======
@@ -40,4 +55,4 @@ Ex: enviar_email(), cadastrar_usuario()
 => Constantes
 - usar letras maiusculas
 - usar (_) para separar as palavras
-Ex: PI, VALOR_MAXIMO
+Ex: PI, VALOR_MAXIMO  """
