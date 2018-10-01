@@ -5,7 +5,7 @@ dir(range)
 # Como saber o tipo da variavel?
 print(type(nome da variavel))
 
-Estudar api Whatsapp + Python
+
 
 =======
 ATENÇÃO
