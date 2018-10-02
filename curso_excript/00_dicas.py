@@ -17,8 +17,8 @@ print(dir(math))
 
 
 # Como saber o tipo da variavel?
-# minha_variavel = 10
-# print(type(minha_variavel))
+minha_variavel = 10
+print(type(minha_variavel))
 
 
 """
