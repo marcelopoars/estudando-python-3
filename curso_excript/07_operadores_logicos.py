@@ -20,6 +20,3 @@ print("4 > 2 = ", (2 > 4))
 print("2 >= 2 = ", (2 > 4))
 print("(2 > 2) or (3 < 5) = ", (2 > 2) or (3 < 5))
 print("type(2) is int", type(2), "=", type(2) is int)
-
-var = 2
-print((2 in var))
