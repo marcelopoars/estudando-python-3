@@ -8,7 +8,6 @@
 # variavel = 2
 # variavel == 2 (True)
 
-
 print("==== Exemplo 01 ====")
 variavel = 2
 print(variavel)

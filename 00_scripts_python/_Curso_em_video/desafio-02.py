@@ -1,5 +1,0 @@
-print("Qual a sua data de nascimento?")
-dia = int(input("Digite o dia: "))
-mes = input("Digite o mês: ")
-ano = int(input("Digite o ano: "))
-print("Você nasceu no dia {} de {} de {}." .format(dia, mes, ano))
