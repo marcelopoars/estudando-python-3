@@ -1,10 +1,7 @@
-"""sempre utilizar este cabeçalho"""
-"""iniciar digitando env3..."""
-"""Define a versão do python a ser utilizada"""
 #!/usr/bin/env python3
-"""inniciar digitando enc..."""
 # -*- coding: utf-8 -*-
-""" É recomentado criar sempre um comentário para cada script Python finalizando o texto com (.)"""
+
+""" Exemplo 3 - Utilizando FOR e LISTAS. """
 
 # Criar uma lista simples de dados e mostrar dados utilizando for
 lista_de_compras = [ "pão", "presunto", "leite", "queijo", "banada" ]
