@@ -1,24 +1,25 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-""" Exercícios utilizando  o comando WHILE. """
 
-"""
--  primeiro - declarar uma variável para o teste
-- cada variavel criada servirá para um determinado teste
-sintaxe:
-variavel = inicializada conforme o tipo de dado
-while + c0mparação + :
-    bloco de código
-"""
+""" Exemplo 1 utilizando WHILE. """
 
+# primeiro - declarar uma variável para o teste
+# cada variavel criada servirá para um determinado teste
+# sintaxe:
+# variavel = inicializada conforme o tipo de dado
+# while + comparação + :
+#     bloco de código
+
+##### EXEMPLO 1 ####
 # repetir a pergunta para o usuario: Deseja continuar?
 # ler resposta do usuario - via teclado
 # dependendo da opção do usuario siga ou não
-continua = True
-while continua == True:
-    resposta = input("Deseja continuar? S / N: ").lower()
-    if resposta == "s":
-        continua = True
-    else:
-        continua = False
-print("Até mais!!!")
+
+# Inicializada a variável (x)
+x = 0
+# Enquanto o x for menor ou igual a 10
+while (x <= 10):
+    # Imprime o valor de x
+    print(x)
+    # A cada repetição x recebe (+1)
+    x += 1
