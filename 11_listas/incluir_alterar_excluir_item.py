@@ -55,3 +55,5 @@ print(lista)
 # vamos excluir o elemento da posição (0) zero
 lista.pop(0)
 print(lista)
+
+# dddddddd
