@@ -4,13 +4,13 @@
 """ Incluindo, alterando e excluindo itens da lista. """
 
 # Vamos inicializar uma lista já populada
-
 lista =["pão", "presunto", "queijo"]
 # imprimindo lista inteira
 print(lista)
 # imprimindo item da posição (1)
 print(lista[1])
 # vamos inserir um item na lista utilizando função "append()"
+# a função "append()" insere um item no final da lista
 lista.append("café")
 # imprimindo lista inteira
 print(lista)
@@ -55,5 +55,3 @@ print(lista)
 # vamos excluir o elemento da posição (0) zero
 lista.pop(0)
 print(lista)
-
-# dddddddd

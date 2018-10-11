@@ -10,6 +10,7 @@ print("Antes de entrar no laço de repetição")
 for item in range(10):
     print(item)
     if (item == 66):
-        # A instrução "break" encerra o programa
+        # a condição IF resulta em falso (False)
+        # Sendo assim não executa a instrução (break)
         break
 print("Condição do if é falsa")

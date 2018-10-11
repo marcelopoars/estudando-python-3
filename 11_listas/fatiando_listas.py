@@ -5,9 +5,12 @@
 
 """
 =================
-  0    1    2    3     4     5
-[P] [Y] [T] [H] [O] [N]
--6    -5   -4   -3   -2   -1
+Inicializando a lista já populada com uma string
+lista = ["P", "Y", "T", "H", "O", "N"
+
+  0    1    2    3     4     5    6
+[P] [Y] [T] [H] [O] [N] [3]
+-7   -6    -5   -4   -3   -2   -1
 
 lista = [x : y : z]
 x = start (início)  - valor padrão (0)
@@ -17,8 +20,8 @@ lista[ start : stop : step ]
 =================
 """
 
-#Indice: 0      1      2     3      4       5
-lista = ["P", "Y", "T", "H", "O", "N"]
+#Indice: 0      1      2     3      4     5    6
+lista = ["P", "Y", "T", "H", "O", "N", 3]
 
 # Imprimindo o elemento zero (0)
 print(lista[ 0 ])

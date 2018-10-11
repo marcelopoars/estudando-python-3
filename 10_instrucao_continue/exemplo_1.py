@@ -11,10 +11,10 @@ i = 0
 while (i < 10):
     i += 1
     if (i % 2 == 0):
-        #  Se resultar verdadeiro, retorna ao início 
+        #  Se resultar verdadeiro, retorna ao início
         continue
     # Se IF resular falso, será impresso o valor de "i"
-    print(i)
+    print("- ", i)
 else:
     print("Executa o else")
 print("Fim")
