@@ -21,3 +21,8 @@ print("=== Exemplo 3 = Minha lista de compras ===")
 print(lista_de_compras[0])
 # Imprime o item no índice "3"
 print(lista_de_compras[3])
+
+
+print("=== Exemplo 4 ===")
+lista = list("Estudando Python 3")
+print(lista)

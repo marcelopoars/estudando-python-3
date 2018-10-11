@@ -13,7 +13,7 @@ def nome_da_funcao():
 def mostrar_linhas():
     print("-" * 50)
 
-
+# criando uma função para apresentar o título entre linhas
 def titulo(texto):
     print("-" * 50)
     print(texto)
