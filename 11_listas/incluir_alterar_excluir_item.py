@@ -55,3 +55,18 @@ print(lista)
 # vamos excluir o elemento da posição (0) zero
 lista.pop(0)
 print(lista)
+# Excluindo elemento da última posição
+lista.pop(-1)
+print(lista)
+
+# vamos novamente popular a lista
+lista = ['açúcar', 'pão', 'presunto-magro', 'queijo', 'café']
+print(lista)
+
+# Excluindo elemento utilizando a função "del()"
+del(lista[2:4])
+print(lista)
+
+# Excluindo elementos / saltando de 2 em 2
+del(lista[::2])
+print(lista)
