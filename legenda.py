@@ -7,7 +7,8 @@
 titulo = ("Fazendo uma nerdisse bem bacana e inutil")
 barra_total = 80
 barras = (barra_total - (len(titulo)))
-for barra in range(barras):
+for barra in range(barras):fffff;
+
     barra += 1
 print(titulo,"/" * barra)
 
