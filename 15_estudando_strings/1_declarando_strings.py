@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Estudando Strings. """
+""" Declarando Strings. """
 
 # 04 formas para declarar Strings
 s1 = 's1 = String com aspas simples'
