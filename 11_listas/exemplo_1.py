@@ -5,7 +5,7 @@
 
 # Uma lista tem seus elementos delimitados por "[ ]" (colchetes)
 # Adicionando itens a lista
-lista_de_compras = ["pão", "presunto", "queijo", "café", "leito"]
+lista_de_compras = ["pão", "presunto", "queijo", "café", "leite"]
 print("=== Exemplo 1 = Minha lista de compras ===")
 # Imprimindo a lista por inteiro
 print(lista_de_compras)
