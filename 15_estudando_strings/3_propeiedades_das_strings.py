@@ -30,3 +30,5 @@ print(string_dividida)
 # é necessário atribuir o resultado para uma NOVA variável
 string_alterada = s.replace("i", "U")
 print(string_alterada)
+
+# ffffffffffff
