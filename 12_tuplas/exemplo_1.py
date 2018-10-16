@@ -1,14 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Exemplo de TUPLA, utilizando FOR. """
+""" Exemplo1 - Estudando TUPLAS. """
 
-print("==== Testando o FOR e Função range() ====")
-inicio = int(input("Digite o INÍCIO: "))
-fim = int(input("Digite o FIM: "))
-passo = int(input("Digite o PASSO: "))
-loop = inicio, fim, passo
-for item in range(*loop):
-    print(item)
+tupla = (11, 22, 33, "tt")
 
-print(type(loop))
+# A função "tuple()" converte a string para tupla
+variavel = tuple("Python")
+
+# imprimindo o conteúdo da tupla
+print(variavel)
+# imprimindo a variavel "tupla"
+print(tupla)
+
+# imprimindo o tipo da variavel
+print(type(tupla))
+print(type(variavel))
+print(type( (1, 2, 3) ))
