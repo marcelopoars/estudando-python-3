@@ -13,7 +13,9 @@ print(1000 - 80)
 # Divisao
 print(10 / 5)
 print(10 / 6)
-print(10 // 6) # resultado ignora as casas decimais / retorna inteiro
+
+# resultado ignora as casas decimais / retorna inteiro
+print(10 // 6)
 var = 10//6
 print(type(var))
 print(type(10/6))

@@ -4,7 +4,11 @@
 """ Ordenamento de listas. """
 
 # vamos novamente popular a lista
-lista = ['açúcar', 'pão', 'presunto-magro', 'queijo', 'café', "arroz", "massa", "tomate"]
+lista = [
+    'açúcar', 'pão', 'presunto-magro',
+    'queijo', 'café', "arroz", "massa", "tomate"
+]
+
 print(lista)
 
 # Invertendo a lista utilizando a função "reverse()"
@@ -16,5 +20,5 @@ lista.sort()
 print(lista)
 
 # outra forma de inverter a lista
-lista.sort(reverse = True)
+lista.sort(reverse=True)
 print(lista)

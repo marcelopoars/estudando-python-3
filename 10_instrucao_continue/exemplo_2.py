@@ -8,7 +8,7 @@
 
 print("Início")
 i = 0
-while (i < 10): # i = 7
+while (i < 10):
     i += 1
     if (i % 2 == 0):
         #  Se resultar verdadeiro, retorna ao início
@@ -17,7 +17,7 @@ while (i < 10): # i = 7
         break
     # Se IF resular falso, será impresso o valor de "i"
     print(i)
-if (i >5):
+if (i > 5):
     print(i, "é maior que 5")
 else:
     print("Executa o else")

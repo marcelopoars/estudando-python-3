@@ -14,7 +14,7 @@ for item in lista_numeros:
 lista_indice = [0, 1, 2, 3]
 print("==== Exemplo 2 ====")
 for item in lista_indice:
-    lista_numeros[item] +=1000
+    lista_numeros[item] += 1000
 print(lista_numeros)
 
 print("==== Exemplo 3 ====")

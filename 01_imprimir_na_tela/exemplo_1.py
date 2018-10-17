@@ -8,4 +8,4 @@
 print("Bora estudar Python pessoal!")
 print(2 + 2)
 print("3" + "3")
-print("Você entendeu porque (4) e (33) foram impressos?" )
+print("Você entendeu porque (4) e (33) foram impressos?")

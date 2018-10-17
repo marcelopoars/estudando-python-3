@@ -9,9 +9,11 @@ def nome_da_funcao():
     bloco de instrução
 """
 
+
 # esta função imprime uma linha na tela
 def mostrar_linhas():
     print("-" * 50)
+
 
 # criando uma função para apresentar o título entre linhas
 def titulo(texto):

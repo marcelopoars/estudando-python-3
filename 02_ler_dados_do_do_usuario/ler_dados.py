@@ -1,3 +1,8 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+""" Lendo dados do usuário. """
+
 # Neste exemplo vamor receber dados do teclado digitados pelo usuario
 # Criamos uma variavel para receber o valor digitado pelo usuario
 valor = input("Por favor digite um numero: ")

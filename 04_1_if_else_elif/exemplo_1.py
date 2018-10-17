@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Aula 20  a 21 - Tomada de decisoes utilizando IF, ELIF e ELSE
+""" Tomada de decisoes utilizando IF, ELIF e ELSE. """
+
+"""
 Ex:
 if (True):
     realizar esta tarefa
@@ -25,8 +27,8 @@ if acao == "1":
 elif acao == "2":
     print("Você disse NÃO!")
 else:
-    while acao != "1"  and  acao != "2":
-        acao = (input("Tente novamente! \n Digite [1] para SIM ou [2] para NÃO: "))
+    while acao != "1" and acao != "2":
+        acao = (input("Tente Digite [1] ou [2]: "))
         if acao == "1":
             print("Você disse SIM!")
         elif acao == "2":

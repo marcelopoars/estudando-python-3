@@ -14,3 +14,6 @@ print(dir(math))
 # Como saber o tipo da variavel?
 minha_variavel = 10
 print(type(minha_variavel))
+
+# a função "id()" retorna o "id" da variável
+print(id(minha_variavel))

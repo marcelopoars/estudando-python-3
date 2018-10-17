@@ -5,7 +5,7 @@
 
 # Variável "a" recebe o valor "10"
 # Variável "b" recebe o valor "5"
-a , b = 10, 5
+a, b = 10, 5
 print("a = ", a)
 print("b = ", b)
 

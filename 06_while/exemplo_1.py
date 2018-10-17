@@ -10,10 +10,12 @@
 # while + comparação + :
 #     bloco de código
 
+"""
 ##### EXEMPLO 1 ####
-# repetir a pergunta para o usuario: Deseja continuar?
-# ler resposta do usuario - via teclado
-# dependendo da opção do usuario siga ou não
+- repetir a pergunta para o usuario: Deseja continuar?
+- ler resposta do usuario - via teclado
+- dependendo da opção do usuario siga ou não
+"""
 
 # Inicializada a variável (x)
 x = 0

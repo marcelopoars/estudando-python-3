@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Aula 25 - Operadores Lógicos. """
+""" Operadores Lógicos. """
 
 """
 and - e

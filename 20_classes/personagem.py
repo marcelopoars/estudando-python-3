@@ -3,6 +3,7 @@
 
 """ Criando a classe personagem. """
 
+
 # Criando a classe "Personagem"
 # Método construtor
 class Personagem:
@@ -17,10 +18,11 @@ class Personagem:
         self.x = x
         self.y = y
 
-
     def __repr__(self):
         # Criando uma representação para o objeto
-        return "\nNome: {} \nAltura: {} \nLargura: {} \nCor: {}".format(self._nome, self.altura, self.largura, self.cor)
+        return "\nNome: {} \nAltura: {} \nLargura: {} \nCor: {}".format(
+            self._nome, self.altura, self.largura, self.cor
+            )
 
     def andar_para_direita(self):
         self.x += 5

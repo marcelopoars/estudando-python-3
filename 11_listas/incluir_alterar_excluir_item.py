@@ -4,7 +4,7 @@
 """ Incluindo, alterando e excluindo itens da lista. """
 
 # Vamos inicializar uma lista já populada
-lista =["pão", "presunto", "queijo"]
+lista = ["pão", "presunto", "queijo"]
 # imprimindo lista inteira
 print(lista)
 # imprimindo item da posição (1)

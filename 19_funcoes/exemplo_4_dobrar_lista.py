@@ -3,11 +3,13 @@
 
 """ Estudando funções no Python. """
 
+
 # criando uma função para apresentar o título entre linhas
 def titulo(texto):
     print("-" * 50)
     print(texto)
     print("-" * 50)
+
 
 def dobrar_valores(lista):
     indice = 0
@@ -15,6 +17,7 @@ def dobrar_valores(lista):
         lista[indice] *= 2
         indice += 1
     print(lista)
+
 
 lista = [6, 3, 9, 1, 0, 2]
 

@@ -17,4 +17,5 @@ teste_1 = "a" == "a"
 teste_2 = "a" == "b"
 teste_3 = "a" != "b"
 teste_4 = 12 == "12"
-print("teste 1 = {} | teste 2 = {} | teste 3 = {} | teste 4 = {}" .format(teste_1, teste_2, teste_3, teste_4))
+print("teste 1 = {} | teste 2 = {} | teste 3 = {} | teste 4 = {}".format(
+    teste_1, teste_2, teste_3, teste_4))

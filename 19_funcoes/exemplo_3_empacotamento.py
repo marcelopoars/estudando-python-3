@@ -3,6 +3,7 @@
 
 """ Estudando funções no Python. """
 
+
 # criando uma função para apresentar o título entre linhas
 def titulo(texto):
     print("-" * 50)

@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Aula 20  a 21 - Tomada de decisoes utilizando IF, ELIF e ELSE
+""" Tomada de decisoes utilizando IF, ELIF e ELSE. """
+
+"""
 Ex:
 if (True):
     realizar esta tarefa

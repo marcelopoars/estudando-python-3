@@ -4,9 +4,14 @@
 """ Exemplo 3 - Utilizando FOR e LISTAS. """
 
 # Criar uma lista simples de dados e mostrar dados utilizando for
-lista_de_compras = [ "pão", "presunto", "leite", "queijo", "banada" ]
- # for + 01 ou mais variáveis in(da sintaxe) + minha lista (ou outra coisa) + (:) sempre
- #    ... aqui vai o bloco de código
+lista_de_compras = ["pão", "presunto", "leite", "queijo", "banada"]
+"""
+SINTAXE do FOR:
+ # for + 01 ou mais variáveis in(da sintaxe)
+ # + minha lista (ou outra coisa) + (:) sempre
+ # aqui vai o bloco de código
+ """
+
 for item in lista_de_compras:
     print("- {}".format(item))
 

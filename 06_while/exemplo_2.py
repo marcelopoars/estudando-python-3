@@ -6,7 +6,7 @@
 # ler resposta do usuario - via teclado
 # dependendo da opção do usuario siga ou não
 continua = True
-while continua == True:
+while continua is True:
     resposta = input("Deseja continuar? S / N: ").lower()
     if resposta == "s":
         continua = True
