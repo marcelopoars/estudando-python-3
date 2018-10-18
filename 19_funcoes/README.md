@@ -11,11 +11,10 @@ Funções são blocos de instrução que podem ser invocados de qualquer parte d
 >def nome_da_funcao():
 >>bloco de instrução
 
+**"def" = define = definir**
 
->**"def" = define = definir**
 
-
-## FUNÇÃO vs MÉTODO
+## FUNÇÃO x MÉTODO
 O conceito de função e método se diferenciam só e somente só pelo retorno de valores.
 
 - Toda função é um bloco de instrução que, possui um nome único que a identifica em seu escopo, pode receber parâmetros e SEMPRE retorna um valor.
