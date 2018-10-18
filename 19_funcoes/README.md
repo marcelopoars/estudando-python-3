@@ -9,7 +9,7 @@ Funções são blocos de instrução que podem ser invocados de qualquer parte d
 
 ## SINTAXE
 >def nome_da_funcao():
->  bloco de instrução
+>bloco de instrução
 
 >*"def" = define = definir*
 
