@@ -12,7 +12,7 @@ def nome_da_funcao():
 
 # esta função imprime uma linha na tela
 def mostrar_linhas():
-    print("-" * 50)
+    print("-u" * 25)
 
 
 # criando uma função para apresentar o título entre linhas
