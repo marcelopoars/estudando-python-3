@@ -17,12 +17,11 @@ class Personagem:
         self.cor = cor
         self.x = x
         self.y = y
+        self.vida = "Está vivo"  # vivo
 
     def __repr__(self):
         # Criando uma representação para o objeto
-        return "\nNome: {} \nAltura: {} \nLargura: {} \nCor: {}".format(
-            self._nome, self.altura, self.largura, self.cor
-            )
+        return f"Nome: {self._nome} Altura: {self.altura} Largura: {self.largura} Cor: {self.cor} Vida: {self.vida}"
 
     def andar_para_direita(self):
         self.x += 5
@@ -46,3 +45,9 @@ class Personagem:
 
     def falar(self, texto):
         return "{} falou: {} ".format(self._nome, texto)
+
+    def morrer(self, atirou):
+        if atirou is True:
+            self.vida = "Está morto"
+        else:
+            self.vida = self.vida
