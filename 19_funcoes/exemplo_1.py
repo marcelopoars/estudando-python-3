@@ -3,12 +3,6 @@
 
 """ Estudando funções no Python. """
 
-"""
-SINTAXE
-def nome_da_funcao():
-    bloco de instrução
-"""
-
 
 # esta função imprime uma linha na tela
 def mostrar_linhas():
