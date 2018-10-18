@@ -4,14 +4,14 @@
 Funções são blocos de instrução que podem ser invocados de qualquer parte do nosso código. Toda função, por definição, possui um nome, pode receber parâmetros e pode retornar valores. Nem toda função receberá parâmetros, da mesma forma, que nem toda função retornará valores. Tudo dependerá da situação, ainda assim, a estrutura sempre seguirá um padrão e por isso, é facilmente reconhecido.
 
 
->ATENÇÃO: Em Python, funções são objetos de primeira classe.
+>*ATENÇÃO: Em Python, funções são objetos de primeira classe.*
 
 
 ## SINTAXE
-def nome_da_funcao():
-- bloco de instrução
+>def nome_da_funcao():
+>  bloco de instrução
 
-> "def" = define = definir
+>*"def" = define = definir*
 
 
 ## FUNÇÃO vs MÉTODO
