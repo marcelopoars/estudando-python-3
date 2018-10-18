@@ -11,7 +11,7 @@ Funções são blocos de instrução que podem ser invocados de qualquer parte d
 def nome_da_funcao():
 - bloco de instrução
 
-> "def" = define = definição
+> "def" = define = definir
 
 
 ## FUNÇÃO vs MÉTODO
