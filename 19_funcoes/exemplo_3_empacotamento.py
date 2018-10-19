@@ -15,9 +15,11 @@ def titulo(texto):
 def contador(* numero):
     total = len(numero)
     print(f"Números recebidos: {numero} | Total de números: {total}")
+    print(type(numero))
 
 
 titulo("EXEMPLO 1")
+
 contador(2, 1, 7)
 contador(8, 0)
 contador(4, 4, 7, 6, 2)
