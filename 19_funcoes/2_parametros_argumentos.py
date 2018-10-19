@@ -16,5 +16,5 @@ def soma(num1, num2):
 
 
 # chamando a função "soma()"
-# passando os argumentos "2 e 5"
+# passando os argumentos "2 e 5git add ."
 soma(2, 5)

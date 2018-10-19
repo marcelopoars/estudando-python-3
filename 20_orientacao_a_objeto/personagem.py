@@ -21,7 +21,8 @@ class Personagem:
 
     def __repr__(self):
         # Criando uma representação para o objeto
-        return f"Nome: {self._nome} Altura: {self.altura} Largura: {self.largura} Cor: {self.cor} Vida: {self.vida}"
+        return "Nome: {} Altura: {} Largura: {} Cor: {} Vida: {}".format(
+            self._nome, self.altura, self.largura, self.cor, self.vida)
 
     def andar_para_direita(self):
         self.x += 5
