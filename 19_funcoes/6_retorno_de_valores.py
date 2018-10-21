@@ -12,7 +12,7 @@ a instrução "return"
 
 def minha_funcao():
     """ retorna uma string """
-    return "Minha funççõa está ok!"
+    return "Minha função está ok!"
 
 
 def soma(x, y):
