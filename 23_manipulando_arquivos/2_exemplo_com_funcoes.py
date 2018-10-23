@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Manipulando arquivos com Python. """
+""" Exemplo 2 - Manipulando arquivos com Python. """
 
 # O método 'readlines()' retorna uma lista com
 # cada linha do arquivo. """

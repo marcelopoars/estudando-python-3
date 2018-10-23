@@ -1,1 +1,2 @@
-12345
+Escrevendo na primeira linha do arquivo.
+Escrevendo na segunda linha do arquivo.
