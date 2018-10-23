@@ -12,7 +12,7 @@ class Binario(object):
         # A função "bin()" converte decimal em binário
         self.valor_bin = bin(self.valor_dec)
 
-    def __str__(self):
+    def __repr__(self):
         """ Método chamado pela função str() para obter o valor
         do objeto em forma de string. """
         return "{} em binário é {}".format(self.valor_dec, self.valor_bin[2:])
