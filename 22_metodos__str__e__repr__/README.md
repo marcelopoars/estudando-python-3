@@ -1,4 +1,4 @@
-# Função __repr__ x Função __str__
+# Função __ repr __ x Função __ str __
 
 ## __repr__
 quando precisa do código que reproduz o objeto

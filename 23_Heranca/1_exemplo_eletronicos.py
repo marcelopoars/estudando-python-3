@@ -21,10 +21,6 @@ class Eletronico:
     def status(self):
         return self.ligado
 
-    # não deu certo ... ver com professor
-    # def __repr__(self):
-    #     return "Teste .....  {}".format(self.ligado)
-
 
 # Criando classe FILHA "Tv"
 class Tv(Eletronico):
@@ -37,13 +33,13 @@ class Tv(Eletronico):
             self.status(), self.volume)
 
     def aumentar_volume(self):
-        if self.ligado is False:
+        if self.ligado is "Desligada":
             print("Sua [Tv] está desligada!")
         else:
             self.volume = self.volume + 1
 
     def diminuir_volume(self):
-        if self.ligado is False:
+        if self.ligado is "Desligada":
             print("Sua [Tv] está desligada!")
         else:
             if self.volume is 0:
@@ -60,12 +56,15 @@ class Tv(Eletronico):
 
 # criando novo objeto tipo "Eletronico"
 tv1 = Tv()  # ok
-# tv1.ligar()  # ok
-print("tv ligada")
-print("volume +")
+tv1.ligar()
+# imprimindo status atual da tv
+# tv1.imprimir_status()
+tv1.desligar()
+# tv1.diminuir_volume()  # ok
+# tv1.diminuir_volume()  # ok
+# tv1.diminuir_volume()  # ok
 tv1.aumentar_volume()  # ok
-print("volume -")
-tv1.diminuir_volume()
+tv1.aumentar_volume()  # ok
+tv1.aumentar_volume()  # ok
+
 tv1.imprimir_status()
-print("Volume atual: ", tv1.volume)
-print(tv1.status())
