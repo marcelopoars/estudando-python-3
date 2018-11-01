@@ -1,50 +1,31 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-""" Dicionário de dados. """
+""" Dicionários de Dados."""
 
-# Imprimir utilizando um DICIONARIO
-# Criamos um dicionario chamado: dados_do_usuarios
-usuarios = {
-    # chave | valor
-    "nome": "João da Silva",
-    "user": "joaosilva",
-    "senha": 232323
+"""
+Operadores de Identidade
+is     - avalia se ambos os lados têm a mesma identidade
+is not - avalia se ambos os lados têm identidades diferentes
+"""
+
+# as chaves podem ser de qualquer tipo imutável
+elementos = {
+    # chave:    valor
+    # neste exemplo as chaves são "Strings"
+    'hidrogenio': 1,
+    'helio': 2,
+    'carbono': 6
 }
 
-# imprime conteúdo do dicionário
-print(usuarios)
+# adicionando um novo item
+elementos['litio'] = 3
+print(elementos)
 
-# retorna o valor referente a chave "nome"
-print(usuarios["nome"])
+# verificando se a chave "oxigenio" está no dicionário
+print('oxigenio' in elementos)
+# o método "get()" procura por valores no dicionário
+print(elementos.get('oxigenio'))
 
-# Imprime o conteudo do meu dicionario ("dados_do_usuarios")
-# (**) expande o dicionário
-print("Olá {nome}! Seu User é: {user} | Senha é: {senha}".format(**usuarios))
-
-# a função "len()" retorna o tamanho do dicionário
-print(f"O dicionário de dados tem {len(usuarios)} elementos.")
-
-# a função "del()" exclui um elemento do dicionário
-del(usuarios["nome"])
-
-# agora o dicionário tem apenas "2" elementos
-print(usuarios)
-
-# a função "keys()" retorna apenas as chaves do dicionário
-print(usuarios.keys())
-print(type(usuarios.keys()))
-
-# a função "values()" retorna os valores do dicionário
-print(usuarios.values())
-
-# a função "grt()" retorna o valor vinculado a chave informada
-print(usuarios.get("user"))
-
-# a função "popitem()" retorna um elemento
-# em seguida remove mesmo do dicionário
-print(usuarios.popitem())
-# chamando a função "popitem()" mais uma vez
-print(usuarios.popitem())
-# agora o dicionário está vazio
-print(usuarios)
+# imprime o valor referente a chave "helio"
+print(elementos["helio"])

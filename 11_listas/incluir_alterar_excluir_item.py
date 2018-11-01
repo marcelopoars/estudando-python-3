@@ -70,3 +70,5 @@ print(lista)
 # Excluindo elementos / saltando de 2 em 2
 del(lista[::2])
 print(lista)
+lista.remove("pão")
+print(lista)
