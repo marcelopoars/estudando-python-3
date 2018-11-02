@@ -11,8 +11,3 @@
 """ EXEMPLO 1 """
 for item in "Python":
     print(item)
-
-""" EXEMPLO 2 """
-names = ["Adam", "Alex", "Mariah", "Martine", "Columbus"]
-for nome in names:
-    print(nome)
