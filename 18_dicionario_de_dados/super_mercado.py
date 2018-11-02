@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""SUpermercado."""
+""" Dicionários de dados, listas e funções."""
 
 prices = {
   "banana": 4,
