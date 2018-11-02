@@ -18,3 +18,17 @@ lista = [4, 8, 15, 16, 23, 42]
 # chamando a função "encontra_menores"
 menores = contar_menores(lista)
 print(menores)
+
+
+# """ EXEMPLO 2 """
+def fizz_count(lista):
+    count = 0
+    for item in lista:
+        if item == "fizz":
+            count += 1
+    return count
+
+
+lista = ["fizz", "cat", "fizz"]
+var = fizz_count(lista)
+print(var)
