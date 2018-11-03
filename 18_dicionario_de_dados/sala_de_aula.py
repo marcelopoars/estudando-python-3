@@ -22,7 +22,7 @@ tyler = {
   "tests": [100.0, 100.0]
 }
 
-students = [lloyd, alice, tyler]
+students = [alice, lloyd, tyler]
 
 for student in students:
     print(student["name"])
@@ -58,6 +58,15 @@ def get_letter_grade(score):
         return "F"
 
 
-print(average(lloyd["tests"]))
-print(get_average(lloyd))
-print(get_letter_grade(get_average(lloyd)))
+def get_class_average(class_list):
+    results = []
+    for student in class_list:
+        results.append(get_average(student))
+    return average(results)
+
+
+# print(average(lloyd["tests"]))
+# print(get_average(lloyd))
+# print(get_letter_grade(get_average(lloyd)))
+print(get_class_average(students))
+print(get_letter_grade(get_class_average(students)))
