@@ -11,8 +11,20 @@ print(1000 - 80)
 
 
 # Divisao
-print(10 / 5)
-print(10 / 6)
+"""
+1 - Quando você divide um inteiro por outro inteiro,
+    o resultado é sempre um inteiro (arredondado para baixo, se necessário).
+2 - Quando você divide um float por um inteiro, o resultado é sempre um float.
+3 - Para dividir dois inteiros e acabar com um float,
+    você deve primeiro usar float () para converter um dos inteiros em float.
+"""
+5 / 2
+# 2
+5.0 / 2
+# 2.5
+float(5) / 2
+# 2.5
+
 
 # resultado ignora as casas decimais / retorna inteiro
 print(10 // 6)
