@@ -82,8 +82,8 @@ class Lista:
 if __name__ == '__main__':
     lista = Lista()
 
-    # for item in range(10):
-    #     lista.append(item)
+    for item in range(10):
+        lista.append(item)
 
     # lista.append(5)
     # lista.append(15)
@@ -91,4 +91,4 @@ if __name__ == '__main__':
     lista.addFirst(5555)
     # lista.list()
     # lista.remove(5)
-    # lista.list()
+    lista.list()
