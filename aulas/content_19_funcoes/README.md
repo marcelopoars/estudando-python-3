@@ -20,3 +20,17 @@ O conceito de função e método se diferenciam só e somente só pelo retorno d
 - Toda função é um bloco de instrução que, possui um nome único que a identifica em seu escopo, pode receber parâmetros e SEMPRE retorna um valor.
 
 - Um método é um bloco de instrução, possui um nome único que o identifica em seu escopo, pode receber parâmetros e NUNCA retorna valores.
+
+
+
+## Funções / Métodos
+
+- letras minusculas, numeros e (\_)
+- sem espaço
+- sem caracter (apenas o \_ )
+- não começar com número
+  > Ex: enviar_email(), cadastrar_usuario()
+
+## Parâmetros de Funções
+
+- enviar(nome_do_arquivo), receber(self)
