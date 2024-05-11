@@ -1,4 +1,4 @@
-# Algumas dicas sobre Estudando Python
+# Algumas dicas sobre Python
 
 <br>
 
