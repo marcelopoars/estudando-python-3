@@ -48,3 +48,7 @@ Espero de coração que este repositório lhe ajude neste início da sua jornada
 
 <br>
 
+---
+
+Criado com 💜 por [Marcelo Pereira](https://marcelopereira.dev)
+
