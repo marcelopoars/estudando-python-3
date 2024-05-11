@@ -1,14 +1,14 @@
-# Estudando Python 3
+# Algumas dicas sobre Estudando Python
 
 <br>
 
-## Sobre o repositório
+## 📚 Sobre o repositório
 
 Este é um repositório de estudo sobre Python criado em 2008, quando tive meu primeiro contato Python. 😍 Me apaixonei pela linguagem, sua sintaxe e sua simplicidade em resolver os problemas. ✨
 
 <br>
 
-## Motivação
+## 💪 Motivação
 
 Criei este repositório para estudar e também compartilhar um pouco da minha prática e experiência com a linguagem Python. Aqui você vai encontrar muitos exemplos de código muito bem comentados e explicados da melhor forma que pude fazer.
 
@@ -16,17 +16,31 @@ Espero de coração que este repositório lhe ajude neste início da sua jornada
 
 <br>
 
-## Sobre mim
+## 👨‍💻 Expert
 
-Eu sou Marcelo Pereira, Desenvolvedor Frontend entusiasta de Desing, UX e Acessibilidade na Web. Também desenvolvo para backend utilizando NodeJs e TypeScript. Sou apaixonado por compartilhar conhecimento e ajudar principalmente aqueles que estão iniciando na área de Desenvolvimento de Software. Sou criador do canal Youtube "Dica do Nerd", onde compartilho conteúdos sobre desenvolvimento web e de sistemas.
+<p>
+    <img 
+      align="left" 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/3664022?v=4"
+      style="margin-right: 16px;"
+    />
+    <strong>Marcelo Pereira</strong>
+    <br>
+    <a href="https://github.com/marcelopoars" target="_blank">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://linkedin.com/in/marcelopoars" target="_blank">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="https://instagram.com/dicadonerd" target="_blank">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;
+    <a href="https://marcelopereira.dev" target="_blank">
+        Website (Portfólio)
+    </a>
+<p>
 
 <br>
-
-## Meus links
-
-Canal Dica do Nerd: https://www.youtube.com/dicadonerd
-
-Linkedin: https://www.linkedin.com/in/marcelopoars
-
-Website: https://www.marcelopereira.dev
 
