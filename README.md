@@ -40,6 +40,10 @@ Espero de coração que este repositório lhe ajude neste início da sua jornada
     <a href="https://marcelopereira.dev" target="_blank">
         Website (Portfólio)
     </a>
+    &nbsp;|&nbsp;
+    <a href="https://youtube.com/dicadonerd" target="_blank">
+        Youtube | Canal DIca do Nerd
+    </a>
 <p>
 
 <br>
