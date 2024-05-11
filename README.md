@@ -42,7 +42,7 @@ Espero de coração que este repositório lhe ajude neste início da sua jornada
     </a>
     &nbsp;|&nbsp;
     <a href="https://youtube.com/dicadonerd" target="_blank">
-        Youtube | Canal DIca do Nerd
+        Youtube | Canal Dica do Nerd
     </a>
 <p>
 
