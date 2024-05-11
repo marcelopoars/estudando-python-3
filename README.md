@@ -12,7 +12,7 @@ Este é um repositório de estudo sobre Python criado em 2008, quando tive meu p
 
 Criei este repositório para estudar e também compartilhar um pouco da minha prática e experiência com a linguagem Python. Aqui você vai encontrar muitos exemplos de código muito bem comentados e explicados da melhor forma que pude fazer.
 
-Espero de coração que este repositório lhe ajude neste início da sua jornada como desenvolvedor Python. 🙏🚀
+Espero de coração que este repositório lhe ajude neste início da sua jornada como desenvolvedor Python. 🙌🚀
 
 <br>
 
