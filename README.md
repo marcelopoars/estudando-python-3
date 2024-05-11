@@ -16,7 +16,7 @@ Espero de coração que este repositório lhe ajude neste início da sua jornada
 
 <br>
 
-## 👨‍💻 Expert
+## 👨‍💻 Minhas redes
 
 <p>
     <img 
